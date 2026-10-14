@@ -19,5 +19,7 @@ V = N mod 3 = 19 mod 3 = 1
 Java 21 і Maven. У корені проєкту:
 
 ```
+cd lab1
+
 mvn test
 ```
